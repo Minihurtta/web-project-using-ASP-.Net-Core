@@ -1,0 +1,144 @@
+﻿
+
+@if (User.Identity.IsAuthenticated)
+{
+    @model List<Tapahtuma>
+{
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>eVite</title>
+            <style>
+                body {
+                    margin: 0;
+                    padding: 0;
+                    background-color: rgb(20, 20, 20);
+                    font-family: Arial, sans-serif;
+                }
+
+                
+
+                header {
+                    background-color: transparent;
+                    padding: 10px;
+                    display: flex;
+                    align-items: center;
+                }
+
+                header img.logo {
+                    height: 50px;
+                    margin-right: 10px;
+                }
+
+                footer {
+                    background: linear-gradient(to bottom, #FF5603, #c12f02);
+                    padding: 10px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    position: fixed;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.2);
+                }
+
+                    footer a {
+                        display: inline-block;
+                        width: 40px;
+                        height: 40px;
+                        margin-right: 10px;
+                        background-color: #FF5603;
+                        border-radius: 50%;
+                    }
+
+                        footer a img {
+                            width: 100%;
+                            height: 100%;
+                        }
+
+                table {
+                    border-collapse: collapse;
+                    width: 100%;
+                }
+
+                th, td {
+                    text-align: left;
+                    padding: 8px;
+                    color: white;
+                }
+
+                th {
+                    background: linear-gradient(to bottom, #FF5603, #c12f02);
+                    color: white;
+                }
+
+                tr:nth-child(even) {
+                    background-color: rgb(30, 30, 30);
+                }
+            </style>
+        </head>
+        <body>
+            <h1>Tapahtumat</h1>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Nimi</th>
+                        <th>Kaupunki</th>
+                        <th>Osoite</th>
+                        <th>Päivä</th>
+                        <th>Aika</th>
+                        <th>Kuvaus</th>
+                        <th>Muokkaa</th>
+                        <th>Poista</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var tapahtuma in Model)
+                    {
+                        <tr>
+                            <td>@tapahtuma.Nimi</td>
+                            <td>@tapahtuma.Kaupunki</td>
+                            <td>@tapahtuma.Osoite</td>
+                            <td>@tapahtuma.Paiva.ToShortDateString()</td>
+                            <td>@tapahtuma.Aika</td>
+                            <form method="post" action="@Url.Action("Info", "Home", new { nimi = tapahtuma.Nimi})">
+                                <input type="hidden" name="Info" value="@tapahtuma.Nimi" />
+                                <td><button type="submit">Lisätietoja</button></td>
+                            </form>
+                            <form method="post" action="@Url.Action("TapahtumienMuokkaus", "Home", new { nimi = tapahtuma.Nimi })">
+                                <input type="hidden" name="Tnimi" value="@tapahtuma.Nimi" />
+                                <td><button type="submit">Muokkaa</button></td>
+                            </form>
+                            <form method="post" action="@Url.Action("PoistaTapahtuma", "Home", new { nimi = tapahtuma.Nimi })">
+                                <input type="hidden" name="nimi" value="@tapahtuma.Nimi" />
+                                <td><button type="submit">Poista</button></td>
+                            </form>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <footer>
+                <nav>
+                    <a href="#"><img src="home.png" alt="Home"></a>
+                    <a href="#"><img src="add.png" alt="Add"></a>
+                </nav>
+            </footer>
+        </body>
+        </html>
+    }
+
+}
+else
+{
+    <h1>Kirjaudu sisään</h1>
+    <form asp-action="Kirjaudu" asp-controller="Home" method="post">
+        <input type="text" name="username" placeholder="Käyttäjänimi">
+        <input type="password" name="salasana" placeholder="salasana">
+        <input type="submit" value="Kirjaudu">
+        <a href="~/Home/Rekisteröidy" class="button">Rekisteröidy</a>
+    </form>
+}
+
+

@@ -1,0 +1,13 @@
+﻿
+@{
+    var tapahtumaLista = (List<string>)ViewData["lista"];
+}
+<main>
+    <h1>Tapahtumat</h1>
+    <ul>
+        @foreach(var tapahtuma in tapahtumaLista)
+        {
+            <li>@tapahtuma</li>
+        }
+    </ul>
+</main>

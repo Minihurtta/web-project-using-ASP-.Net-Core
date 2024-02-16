@@ -1,0 +1,14 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Rekisteröidy</h1>
+
+<form asp-action="KayttajanLuonti" asp-controller="Home" method="post">
+    <input type="text" name="username" placeholder="Käyttäjänimi">
+    <input type="text" name="etunimi" placeholder="etunimi">
+    <input type="text" name="sukunimi" placeholder="sukunimi">
+    <input type="password" name="salasana" placeholder="salasana">
+    <input type="submit" value="Luo käyttäjä">
+</form>

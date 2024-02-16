@@ -1,0 +1,26 @@
+﻿@if (User.Identity.IsAuthenticated)
+{
+
+
+    <h1>Luo Tapahtuma</h1>
+
+    <form asp-action="TapahtumaLuonti" asp-controller="Home" method="post">
+        <input type="text" name="nimi" placeholder="Tapahtuman nimi">
+        <input type="text" name="kaupunki" placeholder="Kaupunki">
+        <input type="text" name="osoite" placeholder="Osoite">
+        <input type="date" name="paiva">
+        <input type="time" name="aika">
+        <input type="text" name="kuvaus" placeholder="Kuvaus">
+        <input type="submit" value="Luo tapahtuma">
+    </form>
+}
+else
+{
+    <h1>Et ole kirjautunut, kirjaudu sisään pls</h1>
+    <form asp-action="Kirjaudu" asp-controller="Home" method="post">
+        <input type="text" name="username" placeholder="Käyttäjänimi">
+        <input type="password" name="salasana" placeholder="salasana">
+        <input type="submit" value="Kirjaudu">
+        <a href="~/Home/Rekisteröidy" class="button">Rekisteröidy</a>
+    </form>
+}
