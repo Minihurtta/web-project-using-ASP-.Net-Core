@@ -1,0 +1,100 @@
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\appsettings.json
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.staticwebassets.runtime.json
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.exe
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.deps.json
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.runtimeconfig.json
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.dll
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.pdb
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.RazorAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.RazorAssemblyInfo.cs
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets\msbuild.Projekti.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekti.props
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekti.props
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekti.props
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\scopedcss\bundle\Projekti.styles.css
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\scopedcss\projectbundle\Projekti.bundle.scp.css
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.dll
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\refint\Projekti.dll
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.pdb
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Tiedostot\OhjelmistoProjekti\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\ref\Projekti.dll
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\appsettings.json
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.staticwebassets.runtime.json
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.exe
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.deps.json
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.runtimeconfig.json
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.dll
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.pdb
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.csproj.AssemblyReference.cache
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.AssemblyInfoInputs.cache
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.AssemblyInfo.cs
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.csproj.CoreCompileInputs.cache
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.RazorAssemblyInfo.cache
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.RazorAssemblyInfo.cs
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets\msbuild.Projekti.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekti.props
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekti.props
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekti.props
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\scopedcss\bundle\Projekti.styles.css
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\scopedcss\projectbundle\Projekti.bundle.scp.css
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.dll
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\refint\Projekti.dll
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.pdb
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.genruntimeconfig.cache
+C:\Users\Elias\Documents\1HAMK\eVite\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\ref\Projekti.dll
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\appsettings.json
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.staticwebassets.runtime.json
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.exe
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.deps.json
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.runtimeconfig.json
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.dll
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\Projekti.pdb
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.csproj.AssemblyReference.cache
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.AssemblyInfoInputs.cache
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.AssemblyInfo.cs
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.csproj.CoreCompileInputs.cache
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.RazorAssemblyInfo.cache
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.RazorAssemblyInfo.cs
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets\msbuild.Projekti.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets\msbuild.build.Projekti.props
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projekti.props
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projekti.props
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\scopedcss\bundle\Projekti.styles.css
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\scopedcss\projectbundle\Projekti.bundle.scp.css
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.dll
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\refint\Projekti.dll
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.pdb
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.genruntimeconfig.cache
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\ref\Projekti.dll
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\josel\Documents\GitHub\New folder\Ryhm-MikaVirolainen\Projekti\Projekti\Projekti\obj\Debug\net7.0\Projekti.csproj.CopyComplete

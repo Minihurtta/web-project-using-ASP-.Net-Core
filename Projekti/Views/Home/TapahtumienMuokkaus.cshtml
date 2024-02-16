@@ -1,0 +1,17 @@
+﻿@model Tapahtuma
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Muokkaa tapahtumaa</h1>
+
+<form asp-action="TapahtumaMuokkaus" asp-controller="Home" method="post">
+    <input type="text" name="nimi" value="@Model.Nimi">
+    <input type="text" name="kaupunki" value="@Model.Kaupunki">
+    <input type="text" name="osoite" value="@Model.Osoite">
+    <input type="date" name="paiva" value="@Model.Paiva.ToString("yyyy-MM-dd")">
+    <input type="time" name="aika" value="@Model.Aika.ToString("hh\\:mm")">
+    <input type="text" name="kuvaus" value="@Model.Kuvaus">
+    <input type="submit" value="Tallenna">
+</form>

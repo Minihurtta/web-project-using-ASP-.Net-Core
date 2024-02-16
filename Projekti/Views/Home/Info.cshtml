@@ -1,0 +1,34 @@
+﻿@model Tapahtuma
+@{
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        h4 {
+            color: white;
+        }
+        p {
+            color: white;
+        }
+        hr {
+            color: #626363;
+        }
+        main {
+            background-color: rgb(30, 30, 30);
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>@Model.Nimi</h1>
+        <hr />
+        <p>@Model.Kaupunki</p>
+        <p>@Model.Osoite</p>
+        <p>@Model.Paiva.ToString("yyy-MM-dd")</p>
+        <p>@Model.Aika.ToString("hh\\:mm")</p>
+        <p>@Model.Kuvaus</p>
+    </main>
+</body>
+</html>
